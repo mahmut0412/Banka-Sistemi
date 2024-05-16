@@ -1,0 +1,14 @@
+C:\Users\mahmu\OneDrive\سطح المكتب\2.sene\2.Dönem\Yazılım Mimarisi ve Tasarımı\ogrno_ogrno\BankSistemi\bin\Debug\net8.0\BankSistemi.exe
+C:\Users\mahmu\OneDrive\سطح المكتب\2.sene\2.Dönem\Yazılım Mimarisi ve Tasarımı\ogrno_ogrno\BankSistemi\bin\Debug\net8.0\BankSistemi.deps.json
+C:\Users\mahmu\OneDrive\سطح المكتب\2.sene\2.Dönem\Yazılım Mimarisi ve Tasarımı\ogrno_ogrno\BankSistemi\bin\Debug\net8.0\BankSistemi.runtimeconfig.json
+C:\Users\mahmu\OneDrive\سطح المكتب\2.sene\2.Dönem\Yazılım Mimarisi ve Tasarımı\ogrno_ogrno\BankSistemi\bin\Debug\net8.0\BankSistemi.dll
+C:\Users\mahmu\OneDrive\سطح المكتب\2.sene\2.Dönem\Yazılım Mimarisi ve Tasarımı\ogrno_ogrno\BankSistemi\bin\Debug\net8.0\BankSistemi.pdb
+C:\Users\mahmu\OneDrive\سطح المكتب\2.sene\2.Dönem\Yazılım Mimarisi ve Tasarımı\ogrno_ogrno\BankSistemi\obj\Debug\net8.0\BankSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmu\OneDrive\سطح المكتب\2.sene\2.Dönem\Yazılım Mimarisi ve Tasarımı\ogrno_ogrno\BankSistemi\obj\Debug\net8.0\BankSistemi.AssemblyInfoInputs.cache
+C:\Users\mahmu\OneDrive\سطح المكتب\2.sene\2.Dönem\Yazılım Mimarisi ve Tasarımı\ogrno_ogrno\BankSistemi\obj\Debug\net8.0\BankSistemi.AssemblyInfo.cs
+C:\Users\mahmu\OneDrive\سطح المكتب\2.sene\2.Dönem\Yazılım Mimarisi ve Tasarımı\ogrno_ogrno\BankSistemi\obj\Debug\net8.0\BankSistemi.csproj.CoreCompileInputs.cache
+C:\Users\mahmu\OneDrive\سطح المكتب\2.sene\2.Dönem\Yazılım Mimarisi ve Tasarımı\ogrno_ogrno\BankSistemi\obj\Debug\net8.0\BankSistemi.dll
+C:\Users\mahmu\OneDrive\سطح المكتب\2.sene\2.Dönem\Yazılım Mimarisi ve Tasarımı\ogrno_ogrno\BankSistemi\obj\Debug\net8.0\refint\BankSistemi.dll
+C:\Users\mahmu\OneDrive\سطح المكتب\2.sene\2.Dönem\Yazılım Mimarisi ve Tasarımı\ogrno_ogrno\BankSistemi\obj\Debug\net8.0\BankSistemi.pdb
+C:\Users\mahmu\OneDrive\سطح المكتب\2.sene\2.Dönem\Yazılım Mimarisi ve Tasarımı\ogrno_ogrno\BankSistemi\obj\Debug\net8.0\BankSistemi.genruntimeconfig.cache
+C:\Users\mahmu\OneDrive\سطح المكتب\2.sene\2.Dönem\Yazılım Mimarisi ve Tasarımı\ogrno_ogrno\BankSistemi\obj\Debug\net8.0\ref\BankSistemi.dll

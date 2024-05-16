@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mahmu\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\2.sene\\2.D\u00F6nem\\Yaz\u0131l\u0131m Mimarisi ve Tasar\u0131m\u0131\\ogrno_ogrno\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97B4B7EF-A555-4319-B1A1-99CDE807BBAE}|BankSistemi\\BankSistemi.csproj|c:\\users\\mahmu\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\2.sene\\2.d\u00F6nem\\yaz\u0131l\u0131m mimarisi ve tasar\u0131m\u0131\\ogrno_ogrno\\banksistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B4B7EF-A555-4319-B1A1-99CDE807BBAE}|BankSistemi\\BankSistemi.csproj|solutionrelative:banksistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\2.sene\\2.D\u00F6nem\\Yaz\u0131l\u0131m Mimarisi ve Tasar\u0131m\u0131\\ogrno_ogrno\\BankSistemi\\Program.cs",
+              "RelativeDocumentMoniker": "BankSistemi\\Program.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\2.sene\\2.D\u00F6nem\\Yaz\u0131l\u0131m Mimarisi ve Tasar\u0131m\u0131\\ogrno_ogrno\\BankSistemi\\Program.cs",
+              "RelativeToolTip": "BankSistemi\\Program.cs",
+              "ViewState": "AQIAAAABAAAAAAAAAAAowAkBAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T11:44:12.702Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
