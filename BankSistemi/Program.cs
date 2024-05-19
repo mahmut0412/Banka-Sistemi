@@ -128,14 +128,14 @@ public class MusteriNoUretici
         }
     }
 
-    public int YeniMusteriNo()
-    {
-        return ++countur;
-    }
-
     public int Countur()
     {
         return countur;
+    }
+
+    public int YeniMusteriNo()
+    {
+        return ++countur;
     }
 }
 
